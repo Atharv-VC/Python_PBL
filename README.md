@@ -26,6 +26,6 @@ To identify similar agricultural regions and classify them into clusters for bet
 - Clusters interpreted based on productivity levels
 
 ## 👥 Team
-Atharv Rawat
-Dhananjay Sharma
-Kashish Rajput
+-Atharv Rawat
+-Dhananjay Sharma
+-Kashish Rajput
